@@ -63,8 +63,8 @@ Kiểm tra với logtest:
 Chi tiết về alert:
 <img width="1689" height="437" alt="image" src="https://github.com/user-attachments/assets/08358369-689a-4d0c-afac-2dc1178d2335" />
 
-Máy chủ KMS ngoài luồng (kms.digiboy.ir:1688) : Máy tính đang kết nối đến một máy chủ KMS công cộng, không được kiểm soát trên Internet để kích hoạt Windows/Office. Đây chính là phần mềm crack.
+  - Máy chủ KMS ngoài luồng (kms.digiboy.ir:1688) : Máy tính đang kết nối đến một máy chủ KMS công cộng, không được kiểm soát trên Internet để kích hoạt Windows/Office. Đây chính là phần mềm crack.
 
-Trạng thái kích hoạt đáng ngờ : LicenseStatus: 1 (Licensed) trên phiên bản Volume (KMS) của Office, nhưng lại đi cùng LicenseStatus: 5 (Non-Genuine) trên bản Retail. Điều này cho thấy hệ thống đã bị can thiệp, có thể đã cài đè crack lên bản quyền hợp pháp.
+  - Trạng thái kích hoạt đáng ngờ : LicenseStatus: 1 (Licensed) trên phiên bản Volume (KMS) của Office, nhưng lại đi cùng LicenseStatus: 5 (Non-Genuine) trên bản Retail. Điều này cho thấy hệ thống đã bị can thiệp, có thể đã cài đè crack lên bản quyền hợp pháp.
 
-Phần mềm không được phê duyệt: Danh sách unauthorized_apps bao gồm các công cụ có thể dùng để bẻ khóa (Npcap), phần mềm giải trí cá nhân (Game PES 6), hoặc phiên bản cũ không an toàn (MySQL Installer bản 1.6).
+  - Phần mềm không được phê duyệt: Danh sách unauthorized_apps bao gồm các công cụ có thể dùng để bẻ khóa (Npcap), phần mềm giải trí cá nhân (Game PES 6), hoặc phiên bản cũ không an toàn (MySQL Installer bản 1.6).
