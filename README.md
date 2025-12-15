@@ -12,7 +12,7 @@ Script này thực hiện quét toàn diện hệ thống Windows để:
 
 🚀 Tính năng chính
 1. 🔍 Kiểm tra Tuân thủ (Compliance Inventory)
-  - Quét ứng dụng đã cài đặt từ registry
+  - Quét ứng dụng đã cài đặt từ registry( Cách làm này giống với inventory thực hiện)
 
   - Phát hiện ứng dụng từ nhà phát hành không được phép
 
