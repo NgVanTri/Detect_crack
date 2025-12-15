@@ -1,4 +1,4 @@
-<p style="font-size: 20px; font-weight: bold;">Nội dung quan trọng</p>
+<p style="font-size: 40px; font-weight: bold;">Nội dung quan trọng</p>
 📋 Tổng quan
 Script này thực hiện quét toàn diện hệ thống Windows để:
 
