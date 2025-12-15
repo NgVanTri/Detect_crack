@@ -1,12 +1,10 @@
-📊 Security Audit Tool (v3) - PowerShell Crack Detection
-Một công cụ PowerShell để phát hiện phần mềm crack, activator và đánh giá tuân thủ bảo mật trên hệ thống Windows. Tích hợp với Wazuh SIEM để giám sát tập trung.
 
 📋 Tổng quan
 Script này thực hiện quét toàn diện hệ thống Windows để:
 
-Phát hiện phần mềm crack/activator trái phép
+  - Phát hiện phần mềm crack/activator trái phép
 
-Đánh giá tuân thủ chính sách phần mềm
+  - Đánh giá tuân thủ chính sách phần mềm
 
 Tích hợp với Kaspersky OpenTIP để phân tích mối đe dọa
 
